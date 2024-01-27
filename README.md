@@ -1,6 +1,6 @@
 ![logo](https://github.com/BhujangAmit/BhujangAmit/blob/main/gitbanner.png)
 <h1 align="center">Hi 👋, I'm Amit Bhujang</h1>
-<h3 align="center">Enthusiastic Indian Full Stack Developer and Android Developer Bringing Digital Magic to Your Web and Mobile Experiences!</h3>
+<h3 align="center">Enthusiastic Full Stack Developer and Android Developer Bringing Digital Magic to Your Web and Mobile Experiences!</h3>
 
 <img align="right" alt="coding" width="350" src="https://media4.giphy.com/media/WtTnAfZn6aVJfBzlN3/giphy.gif">
 
